@@ -30,7 +30,7 @@ gem 'jbuilder', '~> 2.5'
 # Custom rubygems
 gem 'devise'
 gem 'responders'
-
+gem 'webpacker', '>= 4.0.x'
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
